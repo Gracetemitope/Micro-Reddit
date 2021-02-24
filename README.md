@@ -1,1 +1,1 @@
-# Micro-Reddit
+# Rails Micro-Reddit App
