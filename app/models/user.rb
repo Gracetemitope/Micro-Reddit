@@ -4,7 +4,5 @@ class User < ApplicationRecord
   validates :email, presence: true, format: { with: EMAIL_FORMAT }
 
   has_many :posts
-    has_many :comments
-
-
+  has_many :comments
 end

@@ -1,2 +1,7 @@
 class Post < ApplicationRecord
+    has_many :comments
+    belongs_to :user
+    validates_associated :user
+    validates :body, presence: true, length: { maximum: 250 }
+    validates :username, presence: true, uniqueness: true
 end
