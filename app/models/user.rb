@@ -1,5 +1,5 @@
 class User < ApplicationRecord
-  validates :username, presence: true, uniqueness: true
+  validates :username, presence: true, uniqueness: { case_sensitive: true }, length: { maximum: 50 }
   EMAIL_FORMAT = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i.freeze
   validates :email, presence: true, format: { with: EMAIL_FORMAT }
 

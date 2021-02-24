@@ -4,5 +4,5 @@ class Comment < ApplicationRecord
     validates_associated :user
     validates_associated :post
     validates :comment, presence: true, length: { maximum: 250 }
-    validates :username, presence: true, uniqueness: true
+    validates :username, presence: true, uniqueness: { case_sensitive: true }, length: { maximum: 50 }
 end
