@@ -16,15 +16,16 @@ To Run:
 
 
 # Authors
-- 👤 Alexisbec
-Github : @alexisbec
-Twitter : @AlexisV31667779
-Linkedin : Alexis Varela
 
-- 👤 Ajanaku Temitope
-Github: @Gracetemitope
-Twitter: @DevGrachy
-Linkedin: Ajanaku Temitope Grace
+👤 **Alexisbec**
+- Github : @alexisbec
+- Twitter : @AlexisV31667779
+- Linkedin : Alexis Varela
+
+👤 **Ajanaku Temitope**
+- Github: @Gracetemitope
+- Twitter: @DevGrachy
+- Linkedin: Ajanaku Temitope Grace
 
 # 🤝 Contributing
 
