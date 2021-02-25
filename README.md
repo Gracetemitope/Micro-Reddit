@@ -15,13 +15,13 @@ To Run:
 - It's time to do the fun things. To get started with the various functionalities, run -- rails console. There after, you can then begin to add users, posts and comments while adhering stricty to the validations set up in app/models.  
 
 
-- Authors
-👤 Alexisbec
+# Authors
+- 👤 Alexisbec
 Github : @alexisbec
 Twitter : @AlexisV31667779
 Linkedin : Alexis Varela
 
-👤 Ajanaku Temitope
+- 👤 Ajanaku Temitope
 Github: @Gracetemitope
 Twitter: @DevGrachy
 Linkedin: Ajanaku Temitope Grace
