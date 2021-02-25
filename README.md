@@ -1,24 +1,39 @@
-# README
+# Rails Micro-Reddit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Micro-Reddit App built with Ruby on Rails. Validations, associaions and migrations were all implemented in the project. 
 
-Things you may want to cover:
+# Built With
+- Ruby on Rails
+- SQLite
+- Rubocop
 
-* Ruby version
+To Run: 
+- Clone this repository.
+- Open the project folder where the repository was downloaded. 
+- in your terminal, run the command -- bundle install. This will intslla all the required dependencies
+- Thereafter,  run the migrations. To do this, while in the project root folder, run the command: rails db:migrate.
+- It's time to do the fun things. To get started with the various functionalities, run -- rails console. There after, you can then begin to add users, posts and comments while adhering stricty to the validations set up in app/models.  
 
-* System dependencies
 
-* Configuration
+- Authors
+👤 Alexisbec
+Github : @alexisbec
+Twitter : @AlexisV31667779
+Linkedin : Alexis Varela
 
-* Database creation
+👤 Ajanaku Temitope
+Github: @Gracetemitope
+Twitter: @DevGrachy
+Linkedin: Ajanaku Temitope Grace
 
-* Database initialization
+# 🤝 Contributing
 
-* How to run the test suite
+Contributions, issues and feature requests are welcome!
 
-* Services (job queues, cache servers, search engines, etc.)
+Feel free to check the issues page.
 
-* Deployment instructions
+# Show your support
+Give a ⭐️ if you like this project!
 
-* ...
+# 📝 License
+This project is for microverse course purposes.
